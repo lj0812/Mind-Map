@@ -1,12 +1,36 @@
 # 脑图
 
+- [脑图](#脑图)
+  - [目录](#目录)
+    - [CSS](#css)
+    - [HTML](#html)
+    - [JavaScript](#javascript)
+    - [Vue](#vue)
+    - [其他](#其他)
+
 ## 目录
 
-![](./Canvas.svg)
-![](./CSS&#32;GRID.svg)
-![](./Web&#32;Audio.svg)
-![](./Event&#32;&#32;reference.svg)
-![](./DOM.svg)
-![](./Vue.svg)
-![](./webpack.svg)
-![](./浏览器模型.svg)
+### CSS
+
+![css grid](./CSS&#32;GRID.svg)
+![css flex](./CSS%20FLEX.svg)
+
+### HTML
+
+![canvas](./Canvas.svg)
+
+### JavaScript
+
+![dom](./DOM.svg)
+![event reference](./Event&#32;&#32;reference.svg)
+
+### Vue
+
+![vue](./Vue.svg)
+
+### 其他
+
+![JavaScript 设计模式](./JavaScript设计模式.svg)
+![web audio](./Web&#32;Audio.svg)
+![webpack](./webpack.svg)
+![浏览器模型](./浏览器模型.svg)
