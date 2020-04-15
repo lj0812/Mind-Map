@@ -1,34 +1,31 @@
 # 脑图
 
 - [脑图](#脑图)
-  - [目录](#目录)
-    - [CSS](#css)
-    - [HTML](#html)
-    - [JavaScript](#javascript)
-    - [Vue](#vue)
-    - [其他](#其他)
+  - [CSS](#css)
+  - [HTML](#html)
+  - [JavaScript](#javascript)
+  - [Vue](#vue)
+  - [其他](#其他)
 
-## 目录
-
-### CSS
+## CSS
 
 ![css grid](./CSS&#32;GRID.svg)
 ![css flex](./CSS%20FLEX.svg)
 
-### HTML
+## HTML
 
 ![canvas](./Canvas.svg)
 
-### JavaScript
+## JavaScript
 
 ![dom](./DOM.svg)
 ![event reference](./Event&#32;&#32;reference.svg)
 
-### Vue
+## Vue
 
 ![vue](./Vue.svg)
 
-### 其他
+## 其他
 
 ![JavaScript 设计模式](./JavaScript设计模式.svg)
 ![web audio](./Web&#32;Audio.svg)
