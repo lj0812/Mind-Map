@@ -31,3 +31,4 @@
 ![web audio](./Web&#32;Audio.svg)
 ![webpack](./webpack.svg)
 ![浏览器模型](./浏览器模型.svg)
+![正则表达式](./正则表达式.svg)
