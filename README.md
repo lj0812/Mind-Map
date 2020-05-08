@@ -6,6 +6,7 @@
   - [JavaScript](#javascript)
   - [Vue](#vue)
   - [其他](#其他)
+  - [安全](#安全)
 
 ## CSS
 
@@ -32,3 +33,8 @@
 ![webpack](./webpack.svg)
 ![浏览器模型](./浏览器模型.svg)
 ![正则表达式](./正则表达式.svg)
+
+## 安全
+
+![XSS攻击](./XSS攻击.svg)
+![CSRF攻击](./CSRF攻击.svg)
